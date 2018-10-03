@@ -1,0 +1,42 @@
+.operatorContainer {
+    width: 25%;
+}
+
+.operators {
+    background: #a0001f;
+    text-align: center;
+    color: #fff;
+    font-size: 4rem;
+    padding: 28px 0;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+}
+
+.action {
+    width: 100%;
+    background: #fff;
+    text-align: center;
+    font-size: 4rem;
+    padding: 28px 0;
+    border-left: 1px solid gray;
+    border-top: 1px solid gray;
+}
+
+.numbersContainer {
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.numbers {
+    width:  33.3%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 27px 0;
+    font-size: 4rem;
+    background: #fff;
+    border-left: 1px solid gray;
+    border-top: 1px solid gray;
+}
